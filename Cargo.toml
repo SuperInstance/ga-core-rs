@@ -1,0 +1,11 @@
+[package]
+name = "ga-core"
+version = "0.1.0"
+edition = "2021"
+description = "Conformal geometric algebra — Cl(3,1) spacetime multivectors, rotors, and conformal embeddings"
+license = "MIT"
+keywords = ["geometric-algebra", "clifford", "conformal", "rotor", "spacetime"]
+categories = ["mathematics", "science"]
+repository = "https://github.com/SuperInstance/ga-core"
+
+[lib]
