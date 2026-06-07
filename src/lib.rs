@@ -19,7 +19,9 @@
 mod conformal;
 mod multivector;
 mod rotor;
+pub mod agent_physics;
 
+pub use agent_physics::{AgentBody, ForceField, FieldKind};
 pub use conformal::Conformal;
 pub use multivector::Multivector;
 pub use rotor::Rotor;
